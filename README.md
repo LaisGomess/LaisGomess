@@ -9,15 +9,12 @@
 - 🕹️ Tenho 22 anos
 
 ---
-
-## ⚙️ Tecnologias & Skills
+## ⚙️ Tecnologias & Skills  
 
 <div align="center">
 
-| 💻 Linguagens | 📊 Dados & BI | 🧠 Outras Skills |
-|----------------|----------------|----------------|
-| 🐍 **Python** | 📈 **Power BI** | 💼 **Pacote Office** |
-| 🧮 **R** | 💾 **SQL** | 🧩 **Lógica & Automação** |
+| 📊 **Análise de Dados** | 🐍 **Python** | 🧮 **R** | 💾 **SQL** | 💼 **Office 360** | 🧠 **Lógica de Programação** |
+|:------------------------:|:-------------:|:--------:|:-----------:|:----------------:|:-----------------------------:|
 
 </div>
 

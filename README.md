@@ -4,19 +4,22 @@
 
 - 🎓 Técnica em T.I. e graduanda em Ciência de Dados
 - 👩‍🏫 Professora voluntária de Office
-- 👾 Apaixonada por ciência, tecnologia e o universo dos dados
+- 👾 Apaixonada por ciência & tecnologia 
 - 🎮 Fã de jogos online, filmes, ficção científica e tocar piano
 - 🕹️ Tenho 22 anos
 
 ---
 
-## 🛠️ Tecnologias & Skills
+## ⚙️ Tecnologias & Skills
 
-- SQL (aprendendo)
-- Python (aprendendo)
-- C (aprendendo)
-- Power BI (aprendendo)
-- Pacote Office (professora voluntária)
+<div align="center">
+
+| 💻 Linguagens | 📊 Dados & BI | 🧠 Outras Skills |
+|----------------|----------------|----------------|
+| 🐍 **Python** | 📈 **Power BI** | 💼 **Pacote Office** |
+| 🧮 **R** | 💾 **SQL** | 🧩 **Lógica & Automação** |
+
+</div>
 
 ---
 

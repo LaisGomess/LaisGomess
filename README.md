@@ -38,9 +38,12 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Conecte-se Comigo  
 
-[![GitHub](https://img.shields.io/badge/GitHub-LaisGomess-181717?logo=github)](https://github.com/LaisGomess)
+<div align="center">
 
-<!-- Inclua outros links como LinkedIn, e-mail ou redes sociais aqui se desejar! -->
+[![GitHub](https://img.shields.io/badge/GitHub-LaisGomess-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaisGomess)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lais%20Gomes%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laisgomesferreira/)
+[![E-mail](https://img.shields.io/badge/Email-laahgoomes2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laahgoomes2002@gmail.com)
 
+</div>
